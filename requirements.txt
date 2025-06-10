@@ -3,5 +3,5 @@ sentence-transformers
 streamlit
 PyPDF2
 torch
-sentencepiece
+#sentencepiece
 protobuf
