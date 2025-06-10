@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+streamlit
+PyPDF2
+torch
+sentencepiece
+protobuf
